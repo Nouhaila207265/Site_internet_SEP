@@ -1,0 +1,82 @@
+project:
+  type: website
+
+website:
+  title: "URCA - Master SEP"
+  reader-mode: true
+  
+  page-footer: 
+      center: "Copyright 2022, URCA Master SEP"
+      right:
+        - icon: linkedin
+          href: https://www.linkedin.com
+        - icon: twitter
+          href: https://twitter.com
+        - icon: github
+          href: https://github.com  
+
+  navbar:
+    logo: logo urca.jpg
+    background: secondary
+    search: true
+    left:
+      - text: "Présentation"
+        file: index.qmd
+      - sidebar:Formation
+      - sidebar:Emplois_du_temps
+      - sidebar:Contacts
+      - sidebar:Vie_étudiante
+      - sidebar:On_parle_de_nous
+      - sidebar:Ressources
+      
+  sidebar:
+    - id: Présentation
+      title: "Présentation"
+      style: "docked"
+      contents:
+        - index.qmd
+        - Modalités.qmd
+        - Débouchés.qmd
+    - id: Formation
+      title: "Formation"
+      contents:
+        - Organisation.qmd
+        - Enseignements.qmd
+        - Enseignants.qmd
+        - Stage.qmd
+    - id: Emplois_du_temps
+      title: "Emplois du temps"
+    - id: Contacts
+      title: "Contacts"
+    - id: Vie_étudiante
+      title: "Vie étudiante"
+    - id: On_parle_de_nous
+      title: "On parle de nous"
+    - id: Ressources
+      title: "Ressources"
+      
+      tools: 
+        - icon: linkedin
+          href: https://www.linkedin.com
+        - icon: twitter
+          href: https://twitter.com
+        - icon: github
+          href: https://github.com
+      
+         
+
+format:
+  html:
+    toc: true
+    page-layout: full
+    theme: Sandstone
+    css: styles.css
+    
+
+
+
+
+    
+
+editor: visual
+
