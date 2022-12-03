@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "URCA - Master SEP"
@@ -70,7 +71,7 @@ format:
     toc: true
     page-layout: full
     theme: Sandstone
-    css: styles.css
+    #css: styles.css
     
 
 
