@@ -1,4 +1,12 @@
 ---
-title: "parle_de_nous"
+title: "On parle de nous !"
 editor: visual
 ---
+
+[Article du magazine Challenge](http://mastersep.fr/wp-content/uploads/2018/11/Article-Challenge-2017.pdf)
+
+[Article du journal Le Monde](https://www.lemonde.fr/campus/article/2017/02/08/la-fievre-des-diplomes-de-big-data_5076480_4401467.html)
+
+[Classement SMBG 2018 -- meilleurs Masters Big Data](https://www.meilleurs-masters.com/master-big-data.html)
+
+[SAS Joint Certificate Program](https://www.sas.com/content/dam/SAS/documents/technical/education/en/joint-certificate-program.pdf)

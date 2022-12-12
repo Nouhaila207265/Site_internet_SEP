@@ -3,11 +3,12 @@ project:
   output-dir: docs
 
 website:
+  search : true
   title: "URCA - Master SEP"
   reader-mode: true
-  
+
   page-footer: 
-      center: "Copyright 2022, URCA Master SEP"
+      center: "Made by Nouhaila & Hafsa, URCA Master SEP"
       right:
         - icon: linkedin
           href: https://www.linkedin.com
@@ -23,46 +24,55 @@ website:
     left:
       - text: "Présentation"
         file: index.qmd
-      - sidebar:Formation
-      - sidebar:Emplois_du_temps
-      - sidebar:Contacts
-      - sidebar:Vie_étudiante
-      - sidebar:On_parle_de_nous
-      - sidebar:Ressources
+      - text: "Formation"
+        file: Formation.qmd
+      - text: "Contacts"
+        file: contacts.qmd
+      - text: "Vie étudiante"
+        file: vie_etudiante.qmd
+      - text: "On parle de nous"
+        file: parle_de_nous.qmd
+      - text: "Ressources"
+        file: ressources.qmd
+      
       
   sidebar:
-    - id: Présentation
-      title: "Présentation"
-      style: "docked"
-      contents:
-        - index.qmd
-        - Modalités.qmd
-        - Débouchés.qmd
-    - id: Formation
-      title: "Formation"
-      contents:
-        - Organisation.qmd
-        - Enseignements.qmd
-        - Enseignants.qmd
-        - Stage.qmd
-    - id: Emplois_du_temps
-      title: "Emplois du temps"
-    - id: Contacts
-      title: "Contacts"
-    - id: Vie_étudiante
-      title: "Vie étudiante"
-    - id: On_parle_de_nous
-      title: "On parle de nous"
-    - id: Ressources
-      title: "Ressources"
+    style: "docked"
+    search: true
+    contents: 
+      - section: "Présentation"
+        contents: 
+          - index.qmd
+          - Modalités.qmd
+          - Débouchés.qmd
+      - section: "Formation"
+        contents:
+          - Organisation.qmd
+          - Enseignements.qmd
+          - Enseignants.qmd
+          - Stage.qmd
+      - section: "Contacts"
+        contents:
+          - contacts.qmd
+      - section: "Vie étudiante"
+        contents:
+          - plan_acces.qmd
+          - service_logement.qmd
+      - section: "On parle de nous"
+        contents:
+          - parle_de_nous.qmd
+      - section: "Ressources"
+        contents:
+          - ressources.qmd
+
       
-      tools: 
-        - icon: linkedin
-          href: https://www.linkedin.com
-        - icon: twitter
-          href: https://twitter.com
-        - icon: github
-          href: https://github.com
+    tools: 
+      - icon: linkedin
+        href: https://www.linkedin.com
+      - icon: twitter
+        href: https://twitter.com
+      - icon: github
+        href: https://github.com
       
          
 
