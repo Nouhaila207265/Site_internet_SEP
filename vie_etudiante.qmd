@@ -3,5 +3,5 @@ title: "vie_etudiante"
 editor: visual
 ---
 
-[Plans d\'accès](http://mastersep.fr/?page_id=640)\
+[Plans d'accès](http://mastersep.fr/?page_id=640)\
 [Service logement](http://mastersep.fr/?page_id=648)

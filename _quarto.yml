@@ -6,6 +6,7 @@ website:
   search : true
   title: "URCA - Master SEP"
   reader-mode: true
+  favicon: logo_blanc.jpg
 
   page-footer: 
       center: "Made by Nouhaila & Hafsa, URCA Master SEP"
@@ -34,6 +35,8 @@ website:
         file: parle_de_nous.qmd
       - text: "Ressources"
         file: ressources.qmd
+      - text: "Actualités"
+        file: Actualites.qmd
       
       
   sidebar:
@@ -64,6 +67,9 @@ website:
       - section: "Ressources"
         contents:
           - ressources.qmd
+      - section: "Actualités"
+        contents:
+          - Actualites.qmd
 
       
     tools: 

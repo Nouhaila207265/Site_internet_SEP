@@ -1,11 +1,13 @@
 ---
 title: "Présentation du Master SEP"
-image: image_SEP.jpg
+#image: logo_sep_2.jpg
 about: 
   template: jolla
-  image-shape: rectangle
-  image-width: 40em
+  #image-shape: rectangle
+  #image-width: 50em
 ---
+
+![](image_SEP.jpg){fig-align="center" width="687"}
 
 Le Master Statistique pour l'Évaluations et Prévision (SEP) offre aux étudiants l'opportunité d'acquérir une formation sur deux ans dans les domaines de l'analyse économique quantitative et de l'aide à la décision. La dualité de cette formation, à la fois théorique et appliquée, permet d'acquérir des compétences reconnues tant dans le monde professionnel que dans le cadre de la préparation d'un doctorat.\
 Le parcours type « Statistique pour l'Évaluation et Prévision » (SEP) forme des statisticiens économistes aptes au dialogue avec des non spécialistes, performants dans tout domaine statistique, sur tout support informatique, et particulièrement efficients sur les problématiques de l'évaluation économique et sociale, de la Data Science, du traitement de données massives (Big Data), du traitement de données marketing et de la gestion des risques.
