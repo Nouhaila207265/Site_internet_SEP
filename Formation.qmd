@@ -1,0 +1,16 @@
+---
+title: "Formation"
+editor: visual
+---
+
+Le Master Statistique pour L'évaluation offre aux étudiants l'opportunité d'acquérir une formation sur deux ans dans les domaines de l'analyse des données à large échelle et de l'aide à la décision.\
+La master 2 SEP regroupe les étudiants issus du master 1 mathématiques et Applications de la faculté des sciences et technologies et le master 1 Analyse et politique économique de la faculté de lettres droit économie et gestion. Le master accueille aussi des étudiants d'autres universités françaises et étrangères.\
+Cette mutualité permet aux étudiants d'échanger entre eux leurs compétences.
+
+[Organisation des enseignements du master SEP Mathématiques et applications.](https://thor.univ-reims.fr/ufrsen/parcours.php?mention=MA&type=M&parcours=SEP&parcoursType=SEP)
+
+[Liste des enseignements du master SEP.](http://mastersep.fr/wp-content/uploads/2020/12/organisation-des-modules.xlsx)
+
+[Liste des enseignants du master SEP.](http://localhost/wordpress/?page_id=309)
+
+[Stage.](http://mastersep.fr/?page_id=278)
